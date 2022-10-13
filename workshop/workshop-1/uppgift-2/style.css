@@ -1,0 +1,35 @@
+body {
+    background-color: #CCCCCC;
+}
+
+.box {
+    width: 200px;
+    height: 630px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: auto;
+}
+
+#box1 {
+    height: 170px;
+    width: 170px;
+    background-color: #FF0000;
+    border: 14px #8B0000 solid;
+    margin-top: 2px;
+}
+
+#box2 {
+    height: 170px;
+    width: 170px;
+    background-color: #FFFF00;
+    border: 14px #B8860B solid;
+    margin-top: 7px;
+}
+
+#box3 {
+    height: 170px;
+    width: 170px;
+    background-color: #008001;
+    border: 14px #006400 solid;
+    margin-top: 7px;
+}

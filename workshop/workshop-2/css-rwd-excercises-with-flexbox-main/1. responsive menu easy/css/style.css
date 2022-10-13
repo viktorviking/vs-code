@@ -1,0 +1,47 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.fa {
+    
+}
+
+.fa-home {
+
+}
+
+.fa-question {
+
+}
+
+.fa-phone {
+
+}
+
+.fa-road {
+
+}
+
+@media screen and (min-width: 600px){
+    .fa {
+        display: flex;
+
+    }
+
+    .fa-home {
+
+    }
+
+    .fa-question {
+
+    }
+
+    .fa-phone {
+
+    }
+
+    .fa-road {
+
+    }
+}

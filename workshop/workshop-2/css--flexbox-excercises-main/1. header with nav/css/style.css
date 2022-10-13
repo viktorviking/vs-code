@@ -1,0 +1,32 @@
+.main-header {
+    display: flex;
+    background-color: #EEEEEE;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    height: 150px;
+    width: 1000px;
+    justify-content: flex-start;
+    align-items: center;
+        
+}
+
+.logo {
+    margin-left: 50px;
+}
+
+.main-nav {
+    
+}
+
+.main-nav-list {
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    list-style: none;
+    
+}
+
+.list-item {
+    
+}

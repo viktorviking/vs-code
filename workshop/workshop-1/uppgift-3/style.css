@@ -1,0 +1,74 @@
+body {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    background-image: url(https://i0.wp.com/twinfinite.net/wp-content/uploads/2020/03/Persona-5-Wallpapers-Pause.jpg?fit=1920%2C1080&ssl=1);
+    
+  }
+  
+  .container {
+    width: 70%;
+    margin: 0 auto;
+  }
+  
+  header {
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.5);
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    line-height: 200px;
+    font-size: 100px;
+    color: whitesmoke;
+    text-shadow: black 10px 7px;
+    padding: 5px;
+  }
+  
+  nav {
+    
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: #111;
+  }
+  
+  main {
+    display: flex;
+  }
+  .col-1 {
+    background-image: url(./bild/Persona-5-Backgrounds.png);
+    background-size: cover;
+    width: 30%;
+    border: solid black 5px;
+  }
+  
+  .col-2 {
+    font-family: 'Noto Sans', sans-serif;
+    background: #ccc;
+    width: 70%;
+    padding: 30px;  
+    line-height: 22px;
+  }
+  
+  footer {
+    font-family: 'Noto Sans', sans-serif;
+    background: rgba(0, 0, 0, 0.5);
+    height: 100px;
+  }
